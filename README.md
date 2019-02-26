@@ -1,5 +1,5 @@
 # België - Geografische Map
-These Topo jsons are used in Power Bi to make a custom map with the ability to drill through from Provinces to Arrondissements to Municipalities using the Drilldown Choropleth
+De topo json files zijn gebruikt in Power Bi om een custom map te gebruiken met de mogelijkheid om door te drillen van provincies naar arrondissementen en vervolgens naar gemeenten. Hiervoord werd in Power Bi de de Drilldown Choropleth gebruikt.
 
 Result: Provinces
 ![map of belgian provinces](https://i.imgur.com/Hnlrutg.png)
