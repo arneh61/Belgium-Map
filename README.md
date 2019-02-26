@@ -1,4 +1,12 @@
 # België - Geografische Map
+These Topo jsons are used in Power Bi to make a custom map with the ability to drill through from Provinces to Arrondissements to Municipalities using the Drilldown Choropleth
+
+Result: Provinces
+![map of belgian provinces](https://i.imgur.com/Hnlrutg.png)
+Result: Arrondissements 
+![map of belgian arrondissements](https://i.imgur.com/y6J9uLM.png)
+Result: Municipalities 
+![map of belgian municipalities](https://i.imgur.com/EoOqHlD.png)
 ## Intro
 Dit project bevat 3 geografische zones van België: Provincies, Arrondissementen & gemeenten in de vorm van een Topo Json. De kaart is geüpdatet met de fusies die in Januari 2019 zijn doorgevoerd. 
  * “Oudsbergen”: fusie van Meeuwen-Gruitrode en Opglabbeek
