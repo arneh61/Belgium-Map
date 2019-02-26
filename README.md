@@ -17,7 +17,7 @@ Als je geen interactive editing gebruikt kan je de veldwaarden aanpassen dmv '-e
 ```
 -each 'NAME_4="Pelt"' where='NAME_4=="OVERPELT" || 'NAME_4=="NEERPELT"'
 ```
-Voeg fuserende gemeenten op basis van zelfde gemeentenaam. Merk op dat dmv 'no-replace' je een extra laag krijgt in mapshaper, zo kan je altijd bij een fout de nieuwe laag verwijderen en opnieuw beginnen.
+Voeg fuserende gemeenten samen op basis van zelfde gemeentenamen. Merk op dat dmv 'no-replace' je een extra laag krijgt in mapshaper, zo kan je altijd bij een fout de nieuwe laag verwijderen en opnieuw beginnen.
 ```
 -dissolve NAME_2 copy-fields='ID_0,ISO,NAME_0,ID_1,NAME_1,ID_2,NAME_2,TYPE_2,ENGTYPE_2,
  NL_NAME_2,VARNAME_2,NAME_2 - NEW', no-replace
