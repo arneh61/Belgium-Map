@@ -20,7 +20,7 @@ Dit project bevat 3 geografische zones van België: Provincies, Arrondissementen
 ## Hoe pas je de kaart aan
 Met https://mapshaper.org/ kan je de velden aanpassen door middel van commands of interactive editing. Als je zelf een fusie wil doorvoeren kan je dit doen door de veldwaarden van de gemeenten gelijk te maken met elkaar. Nadien kan je deze samenvoegen, zie commands voor hoe je dit moet doen.
 
-## Gebruike Mapshaper commands
+## Gebruikte Mapshaper commands
 Als je geen interactive editing gebruikt kan je de veldwaarden aanpassen dmv '-each'
 ```
 -each 'NAME_4="Pelt"' where='NAME_4=="OVERPELT" || 'NAME_4=="NEERPELT"'
