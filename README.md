@@ -32,7 +32,7 @@ Voeg fuserende gemeenten samen op basis van zelfde gemeentenamen. Merk op dat dm
 ```
 
 Tip voor Bulk Edit...
-Als je alle gemeenten hun gemeentenaam wilt aanpassen kan je dit door eerst een CSV mapping te maken in Excel en deze file vervolgens up te loaden naar mapshaper. Vervolgens moet je deze nieuwe laag joinen op de originele.
+Als je alle gemeenten hun gemeentenaam wilt aanpassen kan je dit door eerst een CSV mapping te maken in Excel en deze file vervolgens te uploaden naar mapshaper. Vervolgens moet je deze nieuwe laag joinen op de originele.
 
 ```
 -join gemapteMDSvelden.csv keys=NAME_3,NAME_3
